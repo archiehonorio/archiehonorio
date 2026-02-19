@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a software engineer with experience in full-stack development, production support, and pre-deployment code reviews. I have extensive experience maintaining and enhancing existing systems, ensuring stability, performance, and reliability in production environments. <br><br><br>What I enjoy the most? Automation. If there’s something repetitive, I’ll probably try to automate it. I love building solutions that save time, reduce manual work, and make life easier for me and the team.
-
+I am a software engineer with experience in full-stack development, production support, and pre-deployment code reviews. I have extensive experience maintaining and enhancing existing systems, ensuring stability, performance, and reliability in production environments. <br><br>What I enjoy the most? I love building and improving systems to make them run smoother and work better. I’m especially into automation. If something is repetitive, I’ll probably find a way to automate it. I enjoy creating solutions that save time, cut down on manual work, and just make life easier for me and the team.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/archie-honorio-90033a2b3) 
